@@ -69,7 +69,7 @@ class App extends React.Component<any, AppState> {
   }
 
   handleClickEvent = (pokemonName: string) => {
-    const { currentSelectedPokemon } = this.state;
+  //  const { currentSelectedPokemon } = this.state;
     const { allPokemons } = this.state;
     //find selected pokemon from allPokemon
     //update state

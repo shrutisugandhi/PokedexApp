@@ -1,6 +1,6 @@
 import React from 'react'
 import '../PokeCard/PokeCard.css'
-import { PokemonSchema } from '../types/pokemonSchema';
+//import { PokemonSchema } from '../types/pokemonSchema';
 
 interface PokeCardProps{
     spriteUrl?: string,
